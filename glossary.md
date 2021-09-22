@@ -1,0 +1,6 @@
+1. **PII** <br>
+Personally Identifiable Information. Any representation of information that permits the identity of an individual to whom the information applies to be reasonably inferred by either direct or indirect means. https://www.dol.gov/general/ppii
+1. **PHI** <br>
+Personal/Protected Health Information. The HIPAA Privacy Rule provides federal protections for personal health information held by covered entities and gives patients an array of rights with respect to that information. https://www.hhs.gov/answers/hipaa/what-is-phi/index.html
+1. **HIPAA**. The Health Insurance Portability and Accountability Act of 1996 (HIPAA) is a federal law that required the creation of national standards to protect sensitive patient health information from being disclosed without the patient’s consent or knowledge. https://www.cdc.gov/phlp/publications/topic/hipaa.html, https://www.hhs.gov/hipaa/index.html
+1. **Smart Health Cards**. A collection of open standards for representing vaccination and other health records in a machine-readable, cryptographically-verifiable form. https://smarthealth.cards/
