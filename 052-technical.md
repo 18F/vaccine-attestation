@@ -6,7 +6,7 @@ Our initial prototypes explored ways to represent and share attestation informat
 
 ## Goals of any technical solution
 
-Before we delve into the specifics of technical approaches to vaccine attestation or certification of vaccine data, we like to consider our [principles](FIXME) and reaffirm that any work in this space will meet the highest moral and ethical standards. These broad principles to guide our technical work:
+Before we delve into the specifics of technical approaches to vaccine attestation or certification of vaccine data, we like to consider our [principles](/030-principles.md) and reaffirm that any work in this space will meet the highest moral and ethical standards. These broad principles to guide our technical work:
 
 * **Safety**: Any system must support keeping people safe: both physical safety as well as _psychological safety_, or the perception that the system and the actions it enables will keep people safe.
 * **Privacy**: Attestation information for employees, contractors, and visitors must be kept private; we recommend _auditable, open systems and protocols_ as the foundation for any technological solution adopted.
