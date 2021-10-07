@@ -13,4 +13,5 @@ If we were called upon to continue our work, these three goals would continue to
 1. To keep the federal workforce (writ large) safe.
 1. To engender trust in government and its processes.
 1. To develop socio-technical systems that protect and guarantee the privacy of the people whose data we are entrusted with.
+   
 [^safe]: [EO 13999](https://www.federalregister.gov/documents/2021/01/26/2021-01863/protecting-worker-health-and-safety): Protecting Worker Health and Safety

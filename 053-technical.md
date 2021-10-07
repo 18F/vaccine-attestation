@@ -6,7 +6,7 @@ Our initial prototypes explored ways to represent and share attestation informat
 
 ## Goals of any technical solution
 
-Before we delve into the specifics of technical approaches to vaccine attestation or certification of vaccine data, we like to consider our [principles](/030-principles.md) and reaffirm that any work in this space will meet the highest moral and ethical standards. These broad principles to guide our technical work:
+Before we delve into the specifics of technical approaches to vaccine attestation or certification of vaccine data, we like to consider our [principles](030-principles.md) and reaffirm that any work in this space will meet the highest moral and ethical standards. These broad principles to guide our technical work:
 
 * **Safety**: Any system must support keeping people safe: both physical safety as well as _psychological safety_, or the perception that the system and the actions it enables will keep people safe.
 * **Privacy**: Attestation information for employees, contractors, and visitors must be kept private; we recommend _auditable, open systems and protocols_ as the foundation for any technological solution adopted.
@@ -160,7 +160,7 @@ In this prototype, no data is stored whatsoever. Indeed, the prototype consists 
 
 We believe this prototype adheres to our principles and is as privacy preserving as possible. A separate mobile application was also developed to scan in the QR code and present the behavioral consequence. 
 
-![a mobile application reading in a qr code and subsequently displaying a masked emoji](/images/mobile-attestation-pathway.png)
+![a mobile application reading in a qr code and subsequently displaying a masked emoji](images/mobile-attestation-pathway.png)
 
 # Resources
 
@@ -183,4 +183,5 @@ Cryptographically secure, privacy respecting, and machine verifiable credentials
   - Already in use in several states
 
 [^cadvr]: The California Digital Vaccine Record is based on Smart Health Cards, and even proprietary systems like New York’s Excelsior system have [made changes](https://www.governor.ny.gov/news/governor-cuomo-announces-launch-excelsior-pass-plus-support-safe-secure-return-tourism-and) to comply with the SHC specification.
+
 [^exfil]: We consider disgruntled employees exfiltrating data amongst our threat models.

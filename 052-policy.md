@@ -9,7 +9,7 @@ We believe that universal masking is the simplest and most reliable way to prote
 
 A policy that requires two different behaviors of individuals based on vaccination status makes it extremely difficult to enforce either. By trying to balance the perceived comfort of not wearing masks against the safety of those who have to enter federal facilities, the current guidance creates a masking policy that is essentially difficult to enforce consistently and equitably.
 
-Different policies for vaccinated and unvaccinated people creates a “lower-friction” path for people to misrepresent their vaccination status rather than mask or go through a rigorous testing process. Mask wearing is a complex personal and social choice[^toxic][^maskoff]; people who are hesitant or otherwise refuse to wear masks may also be those who are most likely to lie about their vaccination status; consistent, universal policies help shift discourse and practice in a way that optional policies do not.
+Different policies for vaccinated and unvaccinated people creates a “lower-friction” path for people to misrepresent their vaccination status rather than mask or go through a rigorous testing process. Mask wearing is a complex personal and social choice[^toxic]<sup>,</sup>[^maskoff]; people who are hesitant or otherwise refuse to wear masks may also be those who are most likely to lie about their vaccination status; consistent, universal policies help shift discourse and practice in a way that optional policies do not.
 
 ## Simplify guidance and build tools to help facilities personnel ensure policies are consistent with expectations
 
@@ -26,4 +26,5 @@ Don’t just tell people what to do, also communicate *why*. When we only tell p
 With ever-changing guidance and widespread misinformation in the broader ecosystem, it is hard for people to know what to do, and know what sources to trust when the context is unclear. By telling people why and when guidance changed, as well as providing information on how to assess their own situation, empower people to make their own decisions. By acknowledging uncertainty but showing how decisions are made, we build more trust and confidence that they are safe and can help enforce safety procedures when in federal facilities.
 
 [^toxic]: [Toughness and Affective Reactions to Mask Wearing in the COVID-19 Era](https://doi.org/10.1017/S1743923X20000422). *Politics & Gender*, December 2020.
+
 [^maskoff]: [#MaskOn! #MaskOff! Digital polarization of mask-wearing in the United States during COVID-19](https://doi.org/10.1371/journal.pone.0250817). *PLoS ONE*, April 2021.
