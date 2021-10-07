@@ -4,9 +4,9 @@ Our work was focused on the safe return of the federal workforce to buildings. O
 
 Our research with agency leaders and industry experts yielded a broad understanding of safety, privacy, and implementation concerns that would impact our work. UX and design considerations focus on user flows as well as communications and messaging in vaccine attestation and evidence-tracking systems. Policy considerations suggest ways that education and safety can, in the future, be kept at the fore. Our technology leverages open standards for representing and sharing personal health information; Smart Health Cards provide an open framework for both decentralizing and protecting the privacy of personal health information.
 
-An executive summary covering sections 1-5 is available as a PDF. Sections 5.1, 5.2, and 5.3 (the details of our design considerations) are only available in the repository.
+An [executive summary covering sections 1-5 is available as a PDF](vaccine-attestation-executive-summary.pdf). Sections 5.1, 5.2, and 5.3 (the details of our design considerations) are only available in the repository.
 
-1. Summary
+1. [Summary](010-executive-summary.md)
 2. [Background](020-background.md)
 3. [Principles](030-principles.md)
 4. [Goals](040-goals.md)
